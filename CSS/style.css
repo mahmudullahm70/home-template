@@ -1,0 +1,83 @@
+.img img{
+     width: 150px;
+     margin-left: 150px;
+     
+ 
+}
+.napbar {
+    margin-left:600px;
+    text-decoration: none;
+    padding: 10px;
+}
+    
+.pic{
+    width: 500px;
+}
+
+#hero-img {
+   
+   width: 800px;
+   margin-left: 725px;
+   margin-top: 200px;
+   
+    
+}
+.napbar a{
+    padding: 30px;
+    color: rgb(45, 47, 47);
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+select{
+    border: none;
+}
+#col{
+    color: rgb(51,93,214);
+    border-radius: 10px;
+}
+
+.ftr p{
+    margin-left: 900px;
+}
+
+.tab button{
+    color:rgb(51,93,214);
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+h1{
+    margin-left: 50px;
+    height: 20px;
+    width: 500px;
+    font-size: 50px;
+    font-weight: 400%;
+} 
+
+h6 {
+    margin-left: 50px;
+    height: 20px;
+    width: 400px;
+    margin-top: 80px;
+    font-size: 20px;
+}
+.button button{
+    margin-left: 50px;
+    color: aliceblue;
+    color:rgb(51,93,214);
+    border-radius: 5px;
+    margin-top: 100px; 
+     
+}
+
+#link{
+   background-color: rgb(51,93,214);
+   color: aliceblue;
+    
+}
+.contant{
+    margin-top: -550px;
+    margin-left: 100px;
+}
